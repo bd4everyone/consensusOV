@@ -1,0 +1,7 @@
+title: consensusOV
+url: https://waldronlab.github.io/consensusOV
+
+template:
+  bootstrap: 5
+  params:
+    bootswatch: flatly
